@@ -1,4 +1,5 @@
 🎓 University Management System
+
 📋 Description
 This project sets up a relational database system for managing a university's departments, students, lecturers, and courses. It includes relationships such as:
 
